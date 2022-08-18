@@ -1,6 +1,7 @@
 ### Hello!
-My name is Alex
-I'm the real Bill Gates
+My name is 💪Alex💪
+
+I'm the real Bill Gates🤑🤑🤑
 
 <!--
 **aleksandrs-levcuks/aleksandrs-levcuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
